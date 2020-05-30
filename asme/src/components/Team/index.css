@@ -1,0 +1,21 @@
+.Heading {
+top: 20px;
+position: relative;
+right: -20px;
+font-family: Cerebri Sans;
+font-style: normal;
+font-weight: 500;
+font-size: 25px;
+line-height: 0%;
+display: flex;
+align-items: center;
+color: #000000;
+}
+
+.Heading img {
+    height: 2%;
+    width: 2%;
+    position: relative;
+    top: 20px;
+    right: 10px;
+}
